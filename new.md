@@ -1,7 +1,3 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
-
-
 Create a local Git repository
 Link of interesting website: https://www.payscale.com/research/US/Job=Software_Development_Engineer_(SDE)/Salary
 
